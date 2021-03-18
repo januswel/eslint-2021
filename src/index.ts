@@ -5,3 +5,5 @@ function main() {
 }
 
 main();
+
+const a = 0;
